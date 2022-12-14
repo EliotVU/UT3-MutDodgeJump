@@ -1,6 +1,6 @@
 # MutDodgeJump for Unreal Tournament 3
 
-As the name implies, MutDodgeJump is a mutator that brings back the UT2004's ability to jump in the air after performing a dodge, also known as a DodgeJump.
+As the name implies, MutDodgeJump is a mutator that brings back the UT2004's ability to jump in mid air during a dodge, also known as a DodgeJump.
 
 ## Options
 The mutator also provides an option (bAllowMultiDodge) to allow the MultiDodge ability, this lets players perform another floor or wall dodge right away.
